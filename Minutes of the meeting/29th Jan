@@ -1,0 +1,19 @@
+[paper](https://arxiv.org/abs/1806.01261)
+[blog - acolyer](https://blog.acolyer.org/2018/09/19/relational-inductive-biases-deep-learning-and-graph-networks/)
+
+Relational Inductive bias - structure of the model
+Non-relational inductive bias - normalization, dropout
+
+inductive bias lets a model choose better solutions
+
+Hierarchy of different objects in our brain - referred from cog sci papers
+our brain shifts these hierarchies in presence of data
+
+MLP - no position invariance in input layer - example find the CoM of N body system
+
+GraphNets
+G = (nodes, edges, global attrs)
+Edge update function:
+  Receiver, sender matrix
+  
+  
